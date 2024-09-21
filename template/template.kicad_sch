@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "17f421a5-85fe-4f74-9a6b-706614a1c361")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 64.77 30.48)
+		(size 12.7 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "03e7195a-8ee7-4a9f-bfa6-1940e269af32")
+		(property "Sheetname" "Column3"
+			(at 64.77 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "column3.kicad_sch"
+			(at 64.77 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "template"
+				(path "/17f421a5-85fe-4f74-9a6b-706614a1c361"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 30.48)
+		(size 12.7 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e3836af-c4e4-4fd5-8500-213844b81969")
+		(property "Sheetname" "column1"
+			(at 15.24 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "column1.kicad_sch"
+			(at 15.24 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "template"
+				(path "/17f421a5-85fe-4f74-9a6b-706614a1c361"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 30.48)
+		(size 12.7 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e4c9336-7038-43f0-9983-e3b759f2387a")
+		(property "Sheetname" "Colum2"
+			(at 39.37 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "column2.kicad_sch"
+			(at 39.37 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "template"
+				(path "/17f421a5-85fe-4f74-9a6b-706614a1c361"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 30.48)
+		(size 12.7 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7f3dd7b6-7f3c-4c2e-974d-f42678ef4d9e")
+		(property "Sheetname" "Column4"
+			(at 90.17 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "column4.kicad_sch"
+			(at 90.17 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "template"
+				(path "/17f421a5-85fe-4f74-9a6b-706614a1c361"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 16.51)
+		(size 12.7 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cefb19f5-f7b8-4f54-b0d6-15e479b90a61")
+		(property "Sheetname" "power"
+			(at 15.24 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 15.24 25.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "template"
+				(path "/17f421a5-85fe-4f74-9a6b-706614a1c361"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 16.51)
+		(size 12.7 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6474fc0-be89-4f98-84c4-e237507530d3")
+		(property "Sheetname" "connectors"
+			(at 39.37 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 39.37 25.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "template"
+				(path "/17f421a5-85fe-4f74-9a6b-706614a1c361"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
